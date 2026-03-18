@@ -24,7 +24,7 @@ const TitleSlide = () => (
     <h1 className="text-5xl font-bold text-white mb-5 tracking-tight leading-tight max-w-3xl">Human × AI Collaboration Canvas</h1>
     <p className="text-lg font-light max-w-2xl leading-relaxed" style={{ color: MUTED }}>A canvas-based workspace where humans and AI agents collaborate, branch ideas, and manage tasks together.</p>
     <div className="mt-10 flex items-center gap-2 text-sm" style={{ color: MUTED }}>
-      <span>Alp — DIG 245 Radical Software — Final Project Proposal</span>
+      <span>Alp — DIG 345 Radical Software — Final Project Proposal</span>
     </div>
   </div>
 );
@@ -490,7 +490,7 @@ const ClosingSlide = () => (
     <h2 className="text-4xl font-bold text-white mb-4">AI Task Hub</h2>
     <p className="text-lg font-light max-w-xl mb-8" style={{ color: MUTED }}>A new way to think, plan, and work — together with AI.</p>
     <div className="w-20 h-0.5 rounded-full mb-8" style={{ backgroundColor: ACCENT }} />
-    <p className="text-sm" style={{ color: MUTED }}>Alp — DIG 245 Radical Software — Davidson College</p>
+    <p className="text-sm" style={{ color: MUTED }}>Alp — DIG 345 Radical Software — Davidson College</p>
     <p className="text-sm mt-1" style={{ color: MUTED }}>Questions & feedback welcome</p>
   </div>
 );
